@@ -6,6 +6,6 @@ Key Features : Create Blog post , Retrieve Blog posts , Update Blog post , Delet
 
 Architecture and Technology
 
-SpringBoot , Spring Data JPA , Spring Hibernate , SQL Database , RESTful Architecture
+SpringBoot , Spring Data JPA , Spring Hibernate , SQL Database , RESTful Architecture , Postman
 
 In summary, the REST API Blog Application leverages Spring Boot, Spring Data JPA, Spring Hibernate, and SQL database to provide a reliable, efficient, and scalable platform for managing blog posts through CRUD operations while adhering to RESTful architecture principles.
